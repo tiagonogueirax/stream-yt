@@ -27,4 +27,4 @@ async function test() {
 	}, 1000 * 10);
 }
 
-test();
+test(); 
