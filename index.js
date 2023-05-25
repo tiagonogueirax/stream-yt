@@ -10,7 +10,7 @@ async function test() {
 			height: 1080,
 		},
 		headless: true,
-		executablePath: '/snap/bin/chromium'
+		executablePath: '/home/tiagonogueirax/.cache/puppeteer/chrome/linux-113.0.5672.63/chrome-linux64/chrome'
 	});
 
 	const page = await browser.newPage();
